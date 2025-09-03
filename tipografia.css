@@ -1,0 +1,24 @@
+.texto-grande {
+    font-size: 64px;
+    line-height: 1.125;
+    font-family: "nunito sans" , sans-serif;
+    font-weight: 800;
+}
+
+.texto-medio {
+    font-size: 24px;
+    line-height: 1.5;
+    font-family: "roboto";
+    font-weight: 400;
+}
+
+.texto-xl {
+    font-size: 50px;
+    line-height: 1.125;
+    font-family: "nunito sans" , sans-serif;
+    font-weight: 700;
+}
+
+.color-c {
+    color: #808080;
+}
